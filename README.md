@@ -26,7 +26,7 @@
 - 事務所や顧客への納品用として継続利用中
 
 ## 🔗 詳細解説（スクリーンショット付き）
-[👉 Notionポートフォリオはこちら](https://your-notion-link-here](https://www.notion.so/22169c9c54fe8016af27ebf2575baf71)
+[👉 Notionポートフォリオはこちら](https://www.notion.so/22169c9c54fe8016af27ebf2575baf71)
 
 ## 🧪 実行方法
 1. `dist` フォルダ内の `.exeファイル` を実行  
